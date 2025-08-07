@@ -1,0 +1,12 @@
+.\objects\inv_mpu.o: Hardware\eMPL\inv_mpu.c
+.\objects\inv_mpu.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\inv_mpu.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\inv_mpu.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\inv_mpu.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\inv_mpu.o: D:\Keil5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\inv_mpu.o: Hardware\eMPL\inv_mpu.h
+.\objects\inv_mpu.o: .\Hardware\MPU6050.h
+.\objects\inv_mpu.o: .\Hardware\control.h
+.\objects\inv_mpu.o: .\Hardware\PID.h
+.\objects\inv_mpu.o: .\System\Delay.h
+.\objects\inv_mpu.o: .\Hardware\Serial.h
