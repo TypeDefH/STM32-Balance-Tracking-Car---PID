@@ -117,7 +117,7 @@ void EXTI9_5_IRQHandler(void)
 	// 清除中断标志位
 	EXTI_ClearITPendingBit(EXTI_Line5);
 }
-
+//并行pid
 //void EXTI9_5_IRQHandler(void)
 //{
 //	if(MPU6050_ReadDMP(&pitch,&roll,&yaw)==0)
